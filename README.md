@@ -22,9 +22,13 @@ Power BI serves as a powerful business intelligence tool for visualizing insight
 
 ## Project Workflow
 Data Ingestion: Raw data is ingested from various sources and stored in the Azure Storage Account.
+
 Data Transformation: Azure Data Factory orchestrates data movement and transformation processes, preparing the data for analysis.
+
 Data Processing: Azure Databricks processes the transformed data using distributed computing, performing advanced analytics and data manipulation tasks.
+
 Data Warehousing: Azure Synapse Analytics serves as the centralized data repository, providing a scalable and performant platform for storing and querying structured and semi-structured data.
+
 Data Visualization: Power BI connects to the data warehouse to create interactive reports and dashboards, enabling stakeholders to explore and visualize insights derived from the data.
 ## Conclusion
 This data warehousing project demonstrates the end-to-end process of ingesting, processing, storing, analyzing, and visualizing data using Azure services. By harnessing the power of cloud-based technologies, organizations can unlock valuable insights from their data assets, driving innovation and competitive advantage.
