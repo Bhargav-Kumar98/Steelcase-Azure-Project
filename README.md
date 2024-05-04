@@ -1,7 +1,7 @@
 # Steelcase-Azure-Project
 
 ## Overview
-This project leverages a combination of Azure services to facilitate data ingestion, processing, and visualization. By utilizing Azure Storage Account, Data Factory, Databricks, Synapse Analytics, and Power BI, I've created a robust data pipeline capable of handling complex dataset and generating actionable insights.
+This project leverages a combination of Azure services to streamline  data ingestion, processing, and visualization. By utilizing Azure Storage Account, Data Factory, Databricks, Synapse Analytics, and Power BI, I've created a robust data pipeline capable of handling complex dataset and generating actionable insights.
 
 ## Project Workflow
 Data Ingestion: Raw data is ingested from various Github and stored in the Azure Storage Account.
