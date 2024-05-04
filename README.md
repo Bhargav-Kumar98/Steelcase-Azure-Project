@@ -1,4 +1,4 @@
-# Steelcase-Azure-End-To-End-Project
+# Steelcase-Azure-Project
 
 # Data Warehousing Project
 ## Overview
