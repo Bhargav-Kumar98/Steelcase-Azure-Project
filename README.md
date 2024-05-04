@@ -1,1 +1,1 @@
-# steelcase-azure-project
+# Steelcase-Azure-End-To-End-Project
