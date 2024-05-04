@@ -2,7 +2,7 @@
 
 # Data Warehousing Project
 ## Overview
-This repository documents a comprehensive data warehousing project leveraging various Azure services to efficiently manage, process, and visualize data. The project employs Azure Storage Account, Data Factory, Databricks, Synapse Analytics, and Power BI to handle data ingestion, transformation, storage, analysis, and visualization, respectively.
+This is a comprehensive data warehousing project leveraging various Azure services to efficiently manage, process, and visualize data. The project employs Azure Storage Account, Data Factory, Databricks, Synapse Analytics, and Power BI to handle data ingestion, transformation, storage, analysis, and visualization, respectively.
 
 ## Project Workflow
 Data Ingestion: Raw data is ingested from various Github and stored in the Azure Storage Account.
